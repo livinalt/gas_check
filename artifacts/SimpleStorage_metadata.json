@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "myFavoriteNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"gascheck.sol": "SimpleStorage"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"gascheck.sol": {
+			"keccak256": "0x03f28197434cf3a72feafb06f60647294ea315700fd5feb4b0db9e5b0f05a65a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://afdd0bf7f3d75f4513878b349a4aaedd9d7629c8d282b368a980df24b3f89760",
+				"dweb:/ipfs/QmTCGL8XqDnpJZM2ypbNxCGR7yxkbuyFWvnvBJYT8XCaC7"
+			]
+		}
+	},
+	"version": 1
+}
